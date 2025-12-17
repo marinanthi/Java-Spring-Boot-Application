@@ -115,8 +115,3 @@ The application will start on:
 http://localhost:8080
 ```
 
----
-
-## 📄 License
-
-This project is for educational purposes.
