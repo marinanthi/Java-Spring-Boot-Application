@@ -1,5 +1,3 @@
-# Lesson Management Microservice
-
 ## Overview
 
 This project is a **Spring Boot RESTful microservice** that manages **Lessons**. It provides endpoints to create lessons and retrieve them from a **PostgreSQL** database using **Spring Data JPA (Hibernate)**.
