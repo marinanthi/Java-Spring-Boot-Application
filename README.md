@@ -97,9 +97,6 @@ Start the PostgreSQL database using Docker Compose:
 ```bash
 docker-compose up -d
 ```
-
-Make sure the database named **lesson** exists before running the application.
-
 ---
 
 ##  Run the Application
